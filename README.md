@@ -1,6 +1,6 @@
 # PHP - Formulario com filtro
  
 
-exectar na raiz do projeto utilizando o servidor PHP
-no terminal inserir o comoando 
+executar na raiz do projeto utilizando o servidor PHP.
+no terminal inserir o comando 
 php -S localhost:8080 -t public
