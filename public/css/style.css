@@ -1,0 +1,159 @@
+
+*{
+    margin: 0;
+}
+nav{
+    background-color: gray;
+    height: 50px;
+    color: honeydew;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+.navUl{
+    padding:20px;
+    color: honeydew;
+    font-size: 20px;
+}
+section{
+    text-align: center;
+    
+}
+
+form{
+
+    margin-top: 30px;
+}
+
+input{
+
+    width: 50%;
+    height: 50px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: blue;
+    
+}
+.divCentraliza{
+    text-align: center;
+}
+.inputPesquisa{
+
+    width: 50%;
+    height: 30px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: blue;
+    margin-left: 250px;
+    
+
+    
+    
+    
+}
+.inputValor{
+
+    width: 10%;
+    height: 30px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: blue;
+ 
+   
+
+    
+}
+select{
+    width: 50%;
+    height: 50px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+table{
+
+    margin-top: 20px;
+
+}
+
+tr{
+    text-align: center;
+
+}
+
+td{
+    
+    text-align: center;
+    font-size: 30px;
+    width: 500px;
+    border-bottom: solid 2px;
+    
+    
+    
+    
+}
+
+
+.topo{
+
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    padding: 0px;
+   
+    height: 400px;
+    text-align: center;
+}
+
+.topoh1{
+    font-size: 80px;
+    margin-top: 270px;
+}
+
+.btnCadastrar{
+    
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 50px;
+    width: 550px;
+    border: none;
+    font-size: 20px;
+    background-color: gray;
+    color: #ffffff;
+}
+
+label{
+    font-size: 20px;
+    color: honeydew;
+}
+
+.btnPesquisar{
+    
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 110px;
+    border: none;
+    font-size: 20px;
+    background-color:#ffffff;
+    color: gray;
+    margin-left: 250px;
+}
+
+.btnFuncoes{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 50px;
+    width: 100px;
+    border: none;
+    font-size: 20px;
+    background-color: gray;
+    color: #ffffff;
+}
